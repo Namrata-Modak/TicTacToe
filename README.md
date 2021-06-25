@@ -2,5 +2,6 @@ TicTacToe- Multiplayer game and the players of this game have to position their 
 
 Tic Tac Toe Game using HTML CSS & JavaScript
 
-# Live link-https://cocky-elion-c8cedb.netlify.app
+1st Live link-https://cocky-elion-c8cedb.netlify.app
 
+2nd live link-https://namrata-modak.github.io/TicTacToe/
